@@ -1,3 +1,2 @@
 #!/bin/bash
-chgrp staff 
-sudo chown vincent
+chown vincent:staff *
